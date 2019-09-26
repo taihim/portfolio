@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Responsive Personal Portfolio Site",
   "main": "main.js",
-  "homepage": "https://Tigrex161.github.io/Portfolio",
+  "homepage": "https://Tigrex161.github.io/portfolio",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "node-sass": "^4.12.0"
